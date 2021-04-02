@@ -16,3 +16,7 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 #### Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&show_icons=true&theme=tokyonight) 
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="KOWSHIK" />
+</h1>

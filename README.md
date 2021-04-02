@@ -17,4 +17,4 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&show_icons=true&theme=tokyonight)

@@ -18,7 +18,8 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&show_icons=true&theme=tokyonight) 
 
 
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+
 
 

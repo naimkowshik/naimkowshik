@@ -10,9 +10,13 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Codeing ideas.
 - 📫 How to reach me: naim.kowshik@gmail.com
-- 😄 Pronouns: k0w581k, Z-Hacker, TeamKurais.
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I play games and go to the Outside very often.
 
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimkowshik&theme=light&hide_langs_below=1" />

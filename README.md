@@ -20,4 +20,4 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naimkowshik)](https://github.com/anuraghazra/github-readme-stats)

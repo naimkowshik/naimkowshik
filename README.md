@@ -6,8 +6,8 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 
 [![Twitter Badge](https://img.shields.io/badge/-@K0WSHIK-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/K0WSHIK)](https://twitter.com/K0WSHIK)  [![Mail Badge](https://img.shields.io/badge/-KOWSHIK-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naim.kowshik@gmail.com)
 
-- 🔭 I’m currently working on ...
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🔭 I’m currently working on ... 
+- :computer: Most used line of code `git commit -m "Initial Commit"` <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🤔 I’m looking for help with Outstanding Codeing ideas.
 - 📫 How to reach me: naim.kowshik@gmail.com
 - 😄 Pronouns: He/His

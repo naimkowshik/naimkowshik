@@ -4,7 +4,7 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@K0WSHIK-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/K0WSHIK)](https://twitter.com/K0WSHIK)  [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naim.kowshik@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@K0WSHIK-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/K0WSHIK)](https://twitter.com/K0WSHIK)  [![Mail Badge](https://img.shields.io/badge/-KOWSHIK-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naim.kowshik@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

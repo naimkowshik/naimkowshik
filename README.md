@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi I'm Kowshik <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**naimkowshik/naimkowshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As Well. I Believe That If You Try Hard in Life. You Will Get Something Good In Your Life
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

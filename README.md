@@ -21,5 +21,5 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimkowshik&theme=light&hide_langs_below=1" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=naimkowshik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text=daf7b&bg_color=191919">
+<img align="https://github-readme-stats.vercel.app/api?username=naimkowshik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text=daf7b&bg_color=191919">
 

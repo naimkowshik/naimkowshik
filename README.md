@@ -12,3 +12,7 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 - 📫 How to reach me: naim.kowshik@gmail.com
 - 😄 Pronouns: k0w581k, z-Hacker, TeamKurais.
 - ⚡ Fun fact: I play games and go to the Outside very often.
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=naimkowshik&count_private=true&theme=tokyonight&hide=contribs,prs)

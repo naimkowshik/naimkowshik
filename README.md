@@ -8,8 +8,7 @@ I'm Kowshik i'm a Student. My interested in Cyber Security. I Like Codeing As We
 
 - 🔭 I’m currently working on ...
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Codeing ideas
+- 🤔 I’m looking for help with Outstanding Codeing ideas.
 - 📫 How to reach me: naim.kowshik@gmail.com
-- 😄 Pronouns: k0w581k, z-Hacker, TeamKurais
+- 😄 Pronouns: k0w581k, z-Hacker, TeamKurais.
 - ⚡ Fun fact: I play games and go to the Outside very often.
--->
